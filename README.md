@@ -40,3 +40,9 @@ To run the landing page locally, follow these steps:
     xdg-open index.html  # Linux
     ```
 
+## Screenshots:
+Screenshotted images are available in the <code>screenshots</code> folder.
+Here are some images:
+![Image1](screenshots/sc1.png)
+![Image2](screenshots/sc3.png)
+![Image3](screenshots/sc5.png)
