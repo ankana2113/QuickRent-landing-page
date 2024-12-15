@@ -4,10 +4,9 @@ Welcome to the **QuickRent Landing Page**! This repository contains the source c
 
 ## Features
 - **Modern UI Design**: Clean, responsive, and attractive layout.
-- **Brand Logo**: The QuickRent logo is placed prominently at the top of the page.
 - **Call-to-Action Buttons**: Easy-to-find buttons for users to sign up or explore property listings.
-- **Responsive Design**: Optimized for desktop, tablet, and mobile views.
-- **Smooth Animations**: Enhanced visual effects when scrolling or interacting with elements.
+- **Responsive Design**: Optimized for all types of views.
+- **Smooth Animations**: Enhanced visual effects when scrolling or interacting with elements like <code>hover</code>.
 
 ## Demo
 
@@ -17,9 +16,8 @@ Check out the live demo of the landing page here: [QuickRent Landing Page Demo](
 
 The landing page is built with the following technologies:
 - **HTML**: For the structure of the page.
-- **CSS**: Styling and layout of elements (flexbox, grid, etc.).
+- **CSS**: Styling and layout of elements.
 - **JavaScript**: Adding interactivity to buttons and forms.
-- **Responsive Design**: Using media queries to ensure compatibility across devices.
 
 ## Installation
 
@@ -27,12 +25,12 @@ To run the landing page locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/quickrent-landing-page.git
+    git clone https://github.com/yourusername/QuickRent-landing-page.git
     ```
 
 2. **Navigate into the project directory**:
     ```bash
-    cd quickrent-landing-page
+    cd QuickRent-landing-page
     ```
 
 3. **Open the `index.html` file in your browser**:
@@ -41,8 +39,4 @@ To run the landing page locally, follow these steps:
     start index.html  # Windows
     xdg-open index.html  # Linux
     ```
-
-## Folder Structure
-
-Here is a basic overview of the folder structure:
 
