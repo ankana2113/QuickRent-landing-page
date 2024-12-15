@@ -10,7 +10,7 @@ Welcome to the **QuickRent Landing Page**! This repository contains the source c
 
 ## Demo
 
-Check out the live demo of the landing page here: [QuickRent Landing Page Demo](#)
+Check out the live demo of the landing page here: [QuickRent Landing Page Demo](https://quick-rent-landing-page-git-master-ankana2113s-projects.vercel.app/)
 
 ## Tech Stack
 
